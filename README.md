@@ -18,5 +18,8 @@ Bu proje, bir **Pull-down direnci** yapılandırması kullanarak temel bir dijit
   
 ![3](https://github.com/user-attachments/assets/aee57635-acc5-40c2-a582-8294f1ecbc47)
 
+<img width="1600" height="900" alt="2" src="https://github.com/user-attachments/assets/0b17fee0-5a9d-475f-b492-d8fa11040c36" />
+
+
 
 
